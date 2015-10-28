@@ -3,6 +3,21 @@
 	"ignore": "test",
 	"package": [
 		{
+			"path": "code.google.com/p/rsc/gf256",
+			"revision": "2d8aa6027fab",
+			"revisionTime": "2014-11-30T16:07:12-05:00"
+		},
+		{
+			"path": "code.google.com/p/rsc/qr",
+			"revision": "2d8aa6027fab",
+			"revisionTime": "2014-11-30T16:07:12-05:00"
+		},
+		{
+			"path": "code.google.com/p/rsc/qr/coding",
+			"revision": "2d8aa6027fab",
+			"revisionTime": "2014-11-30T16:07:12-05:00"
+		},
+		{
 			"path": "github.com/PuerkitoBio/goquery",
 			"revision": "b4440419d81240f8451a505b2f806c853bc2befc",
 			"revisionTime": "2015-06-05T22:16:32-04:00"
@@ -89,8 +104,8 @@
 		},
 		{
 			"path": "github.com/keybase/go-framed-msgpack-rpc",
-			"revision": "46484c7869c832e10b5b9c6f38551f9fa474573e",
-			"revisionTime": "2015-10-23T11:02:48-07:00"
+			"revision": "5cf1d55c5a7b4eb5da99e9f118b3d23848191a18",
+			"revisionTime": "2015-10-27T16:30:52-05:00"
 		},
 		{
 			"path": "github.com/keybase/go-jsonw",
